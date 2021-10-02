@@ -1,0 +1,3 @@
+.venv/
+.vscode/
+exampleVids/__pycache__/
